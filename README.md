@@ -75,4 +75,4 @@ OK (7 tests, 41 assertions)
 
 ## License 
 
-The trenchdevs/csv library is open-sourced software under the [MIT License](https://github.com/trenchdevs/csv/blob/master/LICENSE) 
+The trenchdevs/csv library is open-sourced software under the [Apache-2.0 License](https://github.com/trenchdevs/csv/blob/master/LICENSE) 
