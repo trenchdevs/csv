@@ -2,6 +2,7 @@
     "name": "trenchdevs/csv",
     "description": "A simple csv wrapper for box/spout package",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "box/spout": "^3.1"
     },
